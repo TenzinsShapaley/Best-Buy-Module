@@ -142,10 +142,10 @@
      </rect>
     </property>
     <property name="text">
-     <string>Min Queue Time :</string>
+     <string>Max Queue Time :</string>
     </property>
    </widget>
-   <widget class="QTextEdit" name="min_queue_time_edit">
+   <widget class="QTextEdit" name="max_queue_time_edit">
     <property name="geometry">
      <rect>
       <x>790</x>
