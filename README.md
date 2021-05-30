@@ -9,7 +9,10 @@ unzip it to where you want
 E.G. : D:\Downloads\chromedriver_win32\chromedriver
 In the gui browser path, provide the path to the chromedriver.
 Use double slashes since its windows, for example:
+```
 D:\\Downloads\\chromedriver_win32\\chromedriver
+```
+
 
 3. 
 for the item sku/link, only link is currently supported
