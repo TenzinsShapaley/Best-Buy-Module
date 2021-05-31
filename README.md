@@ -28,4 +28,4 @@ but after 3 of those fields are filled out, you can hit start queue
 clicking the Auto Cart check box allows the program to auto add to cart and take you to the checkout link, but will not do the checkout itself 
 
 6. 
-Min Queue Time will choose a min queue time that the software will accept. If a queue time is larger than the min queue time, the software will discard the queue and you will have to queue up again. If it is left blank at the start, it will default to 3600 seconds, (so realistically it will accept any queue time BB gives the user)
+Maax Queue Time will choose a max queue time that the software will accept. If a queue time is larger than the max queue time, the software will discard the queue and you will have to queue up again. If it is left blank at the start, it will default to 3600 seconds, (so realistically it will accept any queue time BB gives the user)
